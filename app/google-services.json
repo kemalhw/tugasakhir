@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "728590127188",
+    "firebase_url": "https://pengmas2021-2ff56-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "pengmas2021-2ff56",
+    "storage_bucket": "pengmas2021-2ff56.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:728590127188:android:c9615e8c26fec3b414ddc1",
+        "android_client_info": {
+          "package_name": "com.example.ptka"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "728590127188-pike6u15prt5jmu9gl24ukklotgov72a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCPod25TO4z-olMnwCqmrCS8n2O01D3ypo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "728590127188-pike6u15prt5jmu9gl24ukklotgov72a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
